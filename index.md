@@ -17,7 +17,7 @@ Our lab is part of the [Computational Health Informatics Program](https://www.ch
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://hms.harvard.edu/" target="_blank">
-    <img src="images/framed_hms_logo.png" alt="Harvard Medical School" height="60">
+    <img src="images/HMS.png" alt="Harvard Medical School" height="60">
   </a>
 </div>
 
