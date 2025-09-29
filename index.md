@@ -9,15 +9,9 @@ Our lab is part of the [Computational Health Informatics Program](https://www.ch
 
 
 <div style="text-align: center; margin-top: 40px;">
-  <a href="https://chip.org" target="_blank">
-    <img src="images/chip-logo.png" alt="CHIP" style="height:60px; margin:0 30px;">
-  </a>
-  <a href="https://www.childrenshospital.org/" target="_blank">
-    <img src="images/BCH2.svg" alt="Boston Children's Hospital" style="height:60px; margin:0 30px;">
-  </a>
-  <a href="https://hms.harvard.edu/" target="_blank">
-    <img src="images/HMS.png" alt="Harvard Medical School" style="height:60px; margin:0 30px;">
-  </a>
+  <a href="https://chip.org" target="_blank"><img src="images/chip-logo.png" alt="CHIP" style="height:60px; margin:0 30px;"></a>
+  <a href="https://www.childrenshospital.org/" target="_blank"><img src="images/BCH2.svg" alt="Boston Children's Hospital" style="height:60px; margin:0 30px;"></a>
+  <a href="https://hms.harvard.edu/" target="_blank"><img src="images/HMS.png" alt="Harvard Medical School" style="height:60px; margin:0 30px;"></a>
 </div>
 
 
