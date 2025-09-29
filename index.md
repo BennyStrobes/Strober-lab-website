@@ -13,7 +13,7 @@ Our lab is part of the [Computational Health Informatics Program](https://www.ch
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.childrenshospital.org/" target="_blank">
-    <img src="images/BCH.svg" alt="Boston Children's Hospital" height="60">
+    <img src="images/BCH2.svg" alt="Boston Children's Hospital" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://hms.harvard.edu/" target="_blank">
