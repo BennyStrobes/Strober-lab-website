@@ -9,11 +9,11 @@ Our lab is part of the [Computational Health Informatics Program](https://www.ch
 
 <div style="text-align: center; margin-top: 40px;">
   <a href="https://chip.org" target="_blank">
-    <img src="images/photo.jpg" alt="CHIP" height="60">
+    <img src="images/chip-logo.png" alt="CHIP" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.childrenshospital.org/" target="_blank">
-    <img src="images/photo.jpg" alt="Boston Children's Hospital" height="60">
+    <img src="images/BCH.svg" alt="Boston Children's Hospital" height="60">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://hms.harvard.edu/" target="_blank">
