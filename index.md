@@ -3,7 +3,7 @@
 
 # BennyStrobes's Website
 
-An engaging 1-3 sentence description of your lab.
+The Strober lab is a computational group focused on developing statistical and machine learning tools applied to genomic data to elucidate disease biology and advance genomically-informed precision medicine. Our lab is part of the Computational Health Informatics Program at Boston Children's Hospital, a teaching affiliate of Harvard Medical School.
 
 {% include section.html %}
 
