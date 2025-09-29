@@ -7,6 +7,21 @@ The Strober lab is a computational group focused on developing statistical and m
 
 Our lab is part of the [Computational Health Informatics Program](https://www.chip.org/) at Boston Children's Hospital, a teaching affiliate of Harvard Medical School.
 
+<div style="text-align: center; margin-top: 40px;">
+  <a href="https://chip.org" target="_blank">
+    <img src="images/photo.jpg" alt="CHIP" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.childrenshospital.org/" target="_blank">
+    <img src="images/photo.jpg" alt="Boston Children's Hospital" height="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://hms.harvard.edu/" target="_blank">
+    <img src="images/photo.jpg" alt="Harvard Medical School" height="60">
+  </a>
+</div>
+
+
 {% include section.html %}
 
 ## Highlights
