@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-We are actively recruiting to build our team! We welcome scientists at all levels and all backgrounds.
+We are actively recruiting to build our team!! We welcome scientists at all levels and all backgrounds.
 
 {%
   include button.html
@@ -84,7 +84,7 @@ We are actively recruiting to build our team! We welcome scientists at all level
 
 {%
   include feature.html
-  image="images/lab_space.jpg"
+  image="images/lab_space.HEIC"
   link="team"
   title="Our Team"
   text=text
