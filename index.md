@@ -1,7 +1,7 @@
 ---
 ---
 
-# Machine learning in genetics to uncover disease biology
+# Translating genetic data into disease biology and patient care
 
 The Strober lab is a computational group focused on developing statistical and machine learning tools applied to genomic data with the goals of elucidating disease biology and advancing genomically-informed precision medicine. 
 
