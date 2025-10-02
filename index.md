@@ -84,7 +84,7 @@ We are actively recruiting to build our team!! We welcome scientists at all leve
 
 {%
   include feature.html
-  image="images/lab_space.HEIC"
+  image="images/lab_space.jpg"
   link="team"
   title="Our Team"
   text=text
