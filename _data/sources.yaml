@@ -2,14 +2,14 @@
   image: images/papers_surge.jpeg
   buttons:
     - type: source
-      text: Code
+      text: SURGE Code
       link: https://github.com/BennyStrobes/surge
   type: duplicate
 
 - id: doi:10.1126/science.aaw0040
   image: images/papers_dynamic_eqtl.jpg
     - type: source
-      text: Code
+      text: Manuscript Code
       link: https://github.com/BennyStrobes/ipsc_cardiomyocyte_differentiation
   type: duplicate
 
@@ -25,7 +25,7 @@
   image: images/papers_tgfm.png
   buttons:
     - type: source
-      text: Code
+      text: TGFM Code
       link: https://github.com/BennyStrobes/TGFM
   type: duplicate
   
@@ -73,8 +73,11 @@
   image: images/papers_gtex_v8.jpeg
   buttons:
     - type: source
-      text: Code
+      text: Watershed Code
       link: https://github.com/BennyStrobes/Watershed
+      - type: source
+      text: SPOT Code
+      link: https://github.com/BennyStrobes/SPOT
   type: duplicate
 
 - id: doi:10.1038/s41591-019-0457-8
