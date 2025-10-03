@@ -68,6 +68,44 @@
     - type: source
       text: Code
       link: https://github.com/BennyStrobes/Watershed
+  authors:
+  - Nicole M. Ferraro*
+  - Benjamin J. Strober*
+  - Jonah Einson
+  - Nathan S. Abell
+  - Francois Aguet
+  - Alvaro N. Barbeira
+  - Margot Brandt
+  - Maja Bucan
+  - Stephane E. Castel
+  - Joe R. Davis
+  - Emily Greenwald
+  - Gaelen T. Hess
+  - Austin T. Hilliard
+  - Rachel L. Kember
+  - Bence Kotis
+  - YoSon Park
+  - Gina Peloso
+  - Shweta Ramdas
+  - Alexandra J. Scott
+  - Craig Smail
+  - Emily K. Tsang
+  - Seyedeh M. Zekavat
+  - Marcello Ziosi
+  - ' Aradhana'
+  - Kristin G. Ardlie
+  - Themistocles L. Assimes
+  - Michael C. Bassik
+  - Christopher D. Brown
+  - Adolfo Correa
+  - Ira Hall
+  - Hae Kyung Im
+  - Xin Li
+  - Pradeep Natarajan
+  - Tuuli Lappalainen
+  - Pejman Mohammadi
+  - Stephen B. Montgomery
+  - Alexis Battle
   type: duplicate
 
 - id: doi:10.1126/science.aba3066
