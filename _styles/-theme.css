@@ -22,6 +22,17 @@
   --overlay: #ffffff10;
 }
 
+/* 1. Bump the base root font size so rem units scale */
+html {
+  font-size: 17px;
+}
+
+/* 2. Make the main content area use a comfortable size */
+main, .content, .page-body, .post-body {
+  font-size: 1rem; /* now 1rem = 17px because of the html rule above */
+  line-height: 1.7;
+}
+
 :root {
   --title: "Barlow", sans-serif;
   --heading: "Barlow", sans-serif;
