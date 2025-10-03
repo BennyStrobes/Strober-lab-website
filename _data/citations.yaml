@@ -319,6 +319,10 @@
   date: '2025-01-01'
   link: https://doi.org/g8xjhg
   image: images/papers_tgfm.png
+  buttons:
+  - type: source
+    text: Code
+    link: https://github.com/BennyStrobes/TGFM
   type: duplicate
   plugin: sources.py
   file: sources.yaml
