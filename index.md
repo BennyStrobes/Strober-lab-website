@@ -22,7 +22,7 @@ Our lab is part of the [Computational Health Informatics Program](https://www.ch
 
 {% capture text %}
 
-Check out recent publications from the lab.
+We develop and apply statistical and machine learning methods that integrate large-scale genetic and genomic datasets to answer key biological questions. Our work emphasizes rigorous statistical modeling, scalable computation, and integration with experimental and clinical data.
 
 {%
   include button.html
@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-We are actively hiring to build our team! We welcome scientists at all levels and all backgrounds.
+We are actively hiring and welcome scientists from all backgrounds and career stages to join our team!
 
 {%
   include button.html
