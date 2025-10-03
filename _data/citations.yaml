@@ -194,6 +194,7 @@
   plugin: sources.py
   file: sources.yaml
   image: images/papers_surge.jpeg
+  type: duplicate
 - id: doi:10.1101/2023.12.04.23299391
   title: Pervasive correlations between causal disease effects of proximal SNPs vary
     with functional annotations and implicate stabilizing selection
@@ -1188,6 +1189,7 @@
   plugin: sources.py
   file: sources.yaml
   image: images/papers_dynamic_eqtl.jpg
+  type: duplicate
 - id: doi:10.1038/s41591-019-0457-8
   title: Identification of rare-disease genes using blood transcriptome sequencing
     and large control cohorts
