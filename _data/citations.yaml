@@ -731,10 +731,6 @@
   plugin: sources.py
   file: sources.yaml
   image: images/papers_gtex_v8.jpeg
-  buttons:
-  - type: source
-    text: Code
-    link: https://github.com/BennyStrobes/Watershed
   type: duplicate
 - id: doi:10.1126/science.aba3066
   title: The impact of sex on gene expression across human tissues
@@ -1179,6 +1175,10 @@
   plugin: sources.py
   file: sources.yaml
   image: images/papers_v8_rare_var.png
+  buttons:
+  - type: source
+    text: Code
+    link: https://github.com/BennyStrobes/Watershed
   type: duplicate
 - id: doi:10.1101/786053
   title: Diverse transcriptomic signatures across human tissues identify functional
