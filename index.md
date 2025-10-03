@@ -37,7 +37,7 @@ Check out recent publications from the lab.
 
 {%
   include feature.html
-  image="images/papers_tgfm3.png"
+  image="images/papers_tgfm4.png"
   link="research"
   title="Our Research"
   text=text
