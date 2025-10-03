@@ -19,5 +19,5 @@
 - id: doi:10.1186/s13059-023-03152-z
   image: images/papers_surge.jpeg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1126/science.aaw0040
+  image: images/papers_dynamic_eqtl.jpg
