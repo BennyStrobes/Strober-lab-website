@@ -31,3 +31,7 @@
 - id: doi:10.1101/2025.05.05.25327017
   image: images/papers_jpep.png
   type: duplicate
+
+- id: doi:10.1038/s41588-024-01994-2
+  image: images/papers_tgfm.png
+  type: duplicate
