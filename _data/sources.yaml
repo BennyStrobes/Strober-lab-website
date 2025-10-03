@@ -39,3 +39,61 @@
 - id: doi:10.1038/s41467-024-48394-y
   image: images/papers_telomere.png
   type: duplicate
+  
+- id: doi:10.1101/2024.05.13.24307291
+  image: images/papers_multisusie.png
+  type: duplicate
+
+- id: doi:10.1101/2023.12.04.23299391
+  image: images/papers_ldspec.png
+  type: duplicate
+
+- id: doi:10.1038/s41467-023-42016-9
+  image: images/papers_sc_ase.png
+  type: duplicate
+
+- id: doi:10.7554/elife.71361
+  image: images/papers_eb.png
+  type: duplicate
+
+- id: doi:10.1016/j.ajhg.2022.01.002
+  image: images/papers_cafeh.png
+  type: duplicate
+
+- id: doi:10.1371/journal.pgen.1009666
+  image: images/papers_sc_eqtl.png
+  type: duplicate
+
+- id: doi:10.1016/j.cell.2021.03.050
+  image: images/papers_lncrna.png
+  type: duplicate
+
+- id: doi:10.1126/science.aaz5900
+  image: images/papers_v8_rare_var.png
+  type: duplicate
+
+- id: doi:10.1126/science.aba3066
+  image: images/papers_sex_eqtls.jpeg
+  type: duplicate
+
+- id: doi:10.1126/science.aaz1776
+  image: images/papers_gtex_v8.jpeg
+  type: duplicate
+
+- id: doi:10.1038/s41591-019-0457-8
+  image: images/papers_rare_disease.png
+  type: duplicate
+
+- id: doi:10.1038/nature24277
+  image: images/papers_gtex_v6p.png
+  type: duplicate
+
+- id: doi:10.1038/nature24267
+  image: images/papers_gtex_v6_rare_var.png
+  type: duplicate
+
+- id: doi:10.1038/ng.3331
+  image: images/papers_gkm_svm.png
+  type: duplicate
+  
+  
