@@ -38,6 +38,7 @@ main, .content, .page-body, .post-body {
   --heading: "Barlow", sans-serif;
   --body: "Barlow", sans-serif;
   --code: "Roboto Mono", monospace;
+  --medium: 1.8rem;
   --large: 2.0rem;
   --xl: 2.2rem;
   --xxl: 2.4rem;
