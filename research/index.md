@@ -15,6 +15,12 @@ Publications
 
 {% include citation.html lookup="Fine-mapping causal tissues and genes at disease-associated loci" style="rich" %}
 
+{% include citation.html lookup="SURGE: uncovering context-specific genetic-regulation of gene expression" style="rich" %}
+
+{% include citation.html lookup="Dynamic genetic regulation of gene expression during cellular differentiation" style="rich" %}
+
+{% include citation.html lookup="Transcriptomic signatures across human tissues identify functional rare genetic" style="rich" %}
+
 {% include section.html %}
 
 ## All
