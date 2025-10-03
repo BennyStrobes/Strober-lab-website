@@ -50,8 +50,10 @@
   date: '2025-01-01'
   link: https://doi.org/g8xjhg
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_tgfm.png
+  type: duplicate
 - id: doi:10.1038/s41467-024-48394-y
   title: Validation of human telomere length multi-ancestry meta-analysis association
     signals identifies POP5 and KBTBD6 as human telomere length regulation genes
