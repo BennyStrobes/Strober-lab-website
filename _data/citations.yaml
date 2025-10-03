@@ -181,8 +181,10 @@
   date: '2024-05-14'
   link: https://doi.org/g95n8c
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_multisusie.png
+  type: duplicate
 - id: doi:10.1186/s13059-023-03152-z
   title: 'SURGE: uncovering context-specific genetic-regulation of gene expression
     from single-cell RNA sequencing using latent-factor models'
@@ -224,8 +226,10 @@
   date: '2023-12-04'
   link: https://doi.org/g95n8g
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_ldspec.png
+  type: duplicate
 - id: doi:10.1038/s41467-023-42016-9
   title: Single-cell allele-specific expression analysis reveals dynamic and cell-type-specific
     regulatory effects
@@ -240,8 +244,10 @@
   date: '2023-10-09'
   link: https://doi.org/g95n8h
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_sc_ase.png
+  type: duplicate
 - id: doi:10.1101/2022.09.07.507008
   title: The functional impact of rare variation across the regulatory cascade
   authors:
@@ -303,8 +309,10 @@
   date: '2022-02-10'
   link: https://doi.org/g95n8m
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_eb.png
+  type: duplicate
 - id: doi:10.1016/j.ajhg.2022.01.002
   title: Redefining tissue specificity of genetic regulation of gene expression in
     the presence of allelic heterogeneity
@@ -317,8 +325,10 @@
   date: '2022-02-01'
   link: https://doi.org/g95n8n
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_cafeh.png
+  type: duplicate
 - id: doi:10.1371/journal.pgen.1009666
   title: Single-cell sequencing reveals lineage-specific dynamic genetic regulation
     of gene expression during human cardiomyocyte differentiation
@@ -335,8 +345,10 @@
   date: '2022-01-21'
   link: https://doi.org/gptg3j
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_sc_eqtl.png
+  type: duplicate
 - id: doi:10.1016/j.cell.2021.03.050
   title: Population-scale tissue transcriptomics maps long non-coding RNAs to complex
     disease
@@ -525,8 +537,10 @@
   date: '2021-05-01'
   link: https://doi.org/gjtcvr
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_lncrna.png
+  type: duplicate
 - id: doi:10.1126/science.aaz1776
   title: The GTEx Consortium atlas of genetic regulatory effects across human tissues
   authors:
@@ -706,8 +720,10 @@
   date: '2020-09-11'
   link: https://doi.org/ghbnhr
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_gtex_v8.jpeg
+  type: duplicate
 - id: doi:10.1126/science.aba3066
   title: The impact of sex on gene expression across human tissues
   authors:
@@ -927,8 +943,10 @@
   date: '2020-09-11'
   link: https://doi.org/ghbnkj
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_sex_eqtls.jpeg
+  type: duplicate
 - id: doi:10.1126/science.aaz5900
   title: Transcriptomic signatures across human tissues identify functional rare genetic
     variation
@@ -1146,8 +1164,10 @@
   date: '2020-09-11'
   link: https://doi.org/ghxdfd
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_v8_rare_var.png
+  type: duplicate
 - id: doi:10.1101/786053
   title: Diverse transcriptomic signatures across human tissues identify functional
     rare genetic variation
@@ -1240,8 +1260,10 @@
   date: '2019-06-01'
   link: https://doi.org/gf3jnd
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_rare_disease.png
+  type: duplicate
 - id: doi:10.1038/nature25160
   title: 'Erratum: Genetic effects on gene expression across human tissues'
   authors: []
@@ -1275,8 +1297,10 @@
   date: '2017-10-12'
   link: https://doi.org/gb2tc8
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_gtex_v6_rare_var.png
+  type: duplicate
 - id: doi:10.1038/nature24277
   title: Genetic effects on gene expression across human tissues
   authors: []
@@ -1284,8 +1308,10 @@
   date: '2017-10-12'
   link: https://doi.org/gb2nqv
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_gtex_v6p.png
+  type: duplicate
 - id: doi:10.1038/ng.3331
   title: A method to predict the impact of regulatory variants from DNA sequence
   authors:
@@ -1300,8 +1326,10 @@
   date: '2015-06-15'
   link: https://doi.org/f7ktvk
   orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers_gkm_svm.png
+  type: duplicate
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
