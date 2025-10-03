@@ -256,7 +256,7 @@
   file: sources.yaml
   image: images/papers_sc_ase.png
   type: duplicate
-- id: doi:10.1101/2022.09.07.507008
+- id: doi:10.1016/j.xgen.2023.100401
   title: The functional impact of rare variation across the regulatory cascade
   authors:
   - Taibo Li
@@ -266,13 +266,13 @@
   - Silva Kasela
   - Marios Arvanitis
   - Bohan Ni
-  - Laurens van de Wiel
+  - Laurens Wiel
   - Elliot Hershberg
   - Kristin Ardlie
   - Dan E. Arking
   - Rebecca L. Beer
   - Jennifer Brody
-  - Thomas W Blackwell
+  - Thomas W. Blackwell
   - Clary Clish
   - Stacey Gabriel
   - Robert Gerszten
@@ -292,14 +292,14 @@
   - Kent D. Taylor
   - Russell P. Tracy
   - David Van Den Berg
-  - Matthew Wheeler
+  - Matthew T. Wheeler
   - Stephen S. Rich
   - Jerome I. Rotter
   - Alexis Battle
   - Stephen B. Montgomery
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-09-09'
-  link: https://doi.org/g95n8j
+  publisher: Cell Genomics
+  date: '2023-10-01'
+  link: https://doi.org/g95sz2
   orcid: 0000-0003-2969-2808
   plugin: orcid.py
   file: orcid.yaml
@@ -1008,38 +1008,6 @@
     text: Code
     link: https://github.com/BennyStrobes/Watershed
   type: duplicate
-- id: doi:10.1101/786053
-  title: Diverse transcriptomic signatures across human tissues identify functional
-    rare genetic variation
-  authors:
-  - Nicole M. Ferraro
-  - Benjamin J. Strober
-  - Jonah Einson
-  - Xin Li
-  - Francois Aguet
-  - Alvaro N. Barbeira
-  - Stephane E. Castel
-  - Joe R. Davis
-  - Austin T. Hilliard
-  - Bence Kotis
-  - YoSon Park
-  - Alexandra J. Scott
-  - Craig Smail
-  - Emily K. Tsang
-  - Kristin G. Ardlie
-  - Themistocles L. Assimes
-  - Ira Hall
-  - Hae Kyung Im
-  - Tuuli Lappalainen
-  - Pejman Mohammadi
-  - Stephen B. Montgomery
-  - Alexis Battle
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-10-03'
-  link: https://doi.org/gg7m5z
-  orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1126/science.aaw0040
   title: Dynamic genetic regulation of gene expression during cellular differentiation
   authors:
@@ -1108,15 +1076,6 @@
   file: sources.yaml
   image: images/papers_rare_disease.png
   type: duplicate
-- id: doi:10.1038/nature25160
-  title: 'Erratum: Genetic effects on gene expression across human tissues'
-  authors: []
-  publisher: Nature
-  date: '2017-12-20'
-  link: https://doi.org/g95n8r
-  orcid: 0000-0003-2969-2808
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/nature24267
   title: The impact of rare variation on gene expression across tissues
   authors:
