@@ -13,7 +13,7 @@ Publications
 
 ## Highlighted
 
-{% include citation.html lookup="Fine-mapping causal tissues and genes" style="rich" %}
+{% include citation.html lookup="Fine-mapping causal tissues and genes at disease-associated loci" style="rich" %}
 
 {% include section.html %}
 
