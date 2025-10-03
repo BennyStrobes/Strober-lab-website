@@ -13,7 +13,7 @@ Publications
 
 ## Highlighted
 
-{% include citation.html lookup="TGFM" style="rich" %}
+{% include citation.html lookup="Fine-mapping causal tissues and genes" style="rich" %}
 
 {% include section.html %}
 
