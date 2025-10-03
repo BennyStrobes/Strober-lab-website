@@ -23,7 +23,7 @@
   type: duplicate
 
 - id: doi:10.1038/s41588-024-01994-2
-  image: images/papers_tgfm.png
+  image: images/papers_tgfm3.png
   buttons:
     - type: source
       text: Code
