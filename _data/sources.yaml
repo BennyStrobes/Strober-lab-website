@@ -1,27 +1,16 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
 - id: doi:10.1186/s13059-023-03152-z
   image: images/papers_surge.jpeg
+  buttons:
+    - type: source
+      text: Code
+      link: https://github.com/BennyStrobes/surge
   type: duplicate
 
 - id: doi:10.1126/science.aaw0040
   image: images/papers_dynamic_eqtl.jpg
+    - type: source
+      text: Code
+      link: https://github.com/BennyStrobes/ipsc_cardiomyocyte_differentiation
   type: duplicate
 
 - id: doi:10.1101/2025.06.10.25329261
@@ -82,6 +71,10 @@
 
 - id: doi:10.1126/science.aaz1776
   image: images/papers_gtex_v8.jpeg
+  buttons:
+    - type: source
+      text: Code
+      link: https://github.com/BennyStrobes/Watershed
   type: duplicate
 
 - id: doi:10.1038/s41591-019-0457-8
