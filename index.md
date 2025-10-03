@@ -27,10 +27,9 @@ Check out recent publications from the lab.
 {%
   include button.html
   link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
+  text="See what we've published"
+  icon="fas fa-arrow-right"
   flip=true
-  style="bare"
 %}
 
 {% endcapture %}
