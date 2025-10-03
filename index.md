@@ -22,7 +22,7 @@ Our lab is part of the [Computational Health Informatics Program](https://www.ch
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Check out recent publications from the lab.
 
 {%
   include button.html
@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/papers_tgfm.png"
   link="research"
   title="Our Research"
   text=text
