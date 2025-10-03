@@ -66,11 +66,8 @@
   image: images/papers_v8_rare_var.png
   buttons:
     - type: source
-      text: Watershed Code
+      text: Code
       link: https://github.com/BennyStrobes/Watershed
-      - type: source
-      text: SPOT Code
-      link: https://github.com/BennyStrobes/SPOT
   type: duplicate
 
 - id: doi:10.1126/science.aba3066
