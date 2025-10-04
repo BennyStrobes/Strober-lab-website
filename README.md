@@ -5,6 +5,6 @@
 
   # BennyStrobes's Website
 
-  Visit **[bennystrobes.github.io/Strober-lab-website](https://bennystrobes.github.io/Strober-lab-website)** 🚀
+  Visit **[stroberlab.com](http://stroberlab.com)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
