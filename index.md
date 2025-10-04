@@ -43,17 +43,6 @@ We develop and apply statistical and machine learning methods that integrate mas
 %}
 
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{% include button.html link="projects" text="Browse our projects" icon="fas fa-arrow-right" flip=true %}
-
-{% endcapture %}
-
-{% include feature.html image="images/photo.jpg" link="projects" title="Our Projects" flip=true text=text %}
-
-
 
 {% capture text %}
 
@@ -74,5 +63,6 @@ We are actively hiring and welcome scientists from all backgrounds and career st
   image="images/lab_space.jpg"
   link="team"
   title="Our Team"
+  flip=true
   text=text
 %}
