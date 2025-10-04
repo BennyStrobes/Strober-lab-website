@@ -60,7 +60,7 @@ We are actively hiring and welcome scientists from all backgrounds and career st
 
 {%
   include feature.html
-  image="images/lab_space2.jpg"
+  image="images/labspace2.jpg"
   link="team"
   title="Our Team"
   flip=true
