@@ -25,6 +25,10 @@
 - id: doi:10.1101/2025.06.10.25329261
   image: images/papers_pleio_h2.png
   type: duplicate
+
+- id: doi:10.1016/j.xgen.2023.100401
+  image: images/papers_multiomic_watershed.png
+  type: duplicate
   
 - id: doi:10.1101/2025.05.05.25327017
   image: images/papers_jpep.png
