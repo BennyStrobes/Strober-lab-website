@@ -19,7 +19,7 @@ There are two options:
 
 Current Harvard/MIT students: [email me](mailto:ben.strober@childrens.harvard.edu) with a description of your research interests and a CV.
 
-Prospective students: consider these programs:
+Prospective students consider these programs:
 
 1. [Harvard Medical School BIG PhD Track](https://dbmi.hms.harvard.edu/education/phd-program/big-phd-track)
 2. [Harvard Medical School AI in Medicine PhD Track](https://dbmi.hms.harvard.edu/education/phd-program/ai-medicine-phd-track)
