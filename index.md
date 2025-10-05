@@ -50,7 +50,7 @@ We are actively hiring and welcome scientists from all backgrounds and career st
 
 {%
   include button.html
-  link="team"
+  link="join"
   text="Join the team"
   icon="fas fa-arrow-right"
   flip=true
