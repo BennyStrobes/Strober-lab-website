@@ -1,6 +1,6 @@
 ---
 name: You?
-image: images/photo.jpg
+image: images/members_dna.png
 role: unknown
 ---
 
