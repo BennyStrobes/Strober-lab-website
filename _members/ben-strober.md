@@ -2,7 +2,6 @@
 name: Ben Strober
 image: images/members_Strober.jpeg
 role: principal-investigator
-affiliation: Boston Children's Hospital
 aliases:
   - B. J. Strober
   - B. Strober
