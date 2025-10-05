@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Strober Lab
+title: Strober Lab Website
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: The Strober lab is a computational group at Boston Children's Hospital (a Harvard Medical School affiliated hospital) focused on developing statistical and machine learning tools applied to human genetic and genomic data. Our goals are to elucidate disease biology and advance genomically-informed precision medicine.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
