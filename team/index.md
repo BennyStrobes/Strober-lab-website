@@ -13,7 +13,7 @@ We’ve just opened the doors to our new lab and are excited to build a highly c
 
 {% include section.html dark=true %}
 
-We are actively hiring and welcome scientists from all backgrounds and career stages to join our team! As a new and growing lab, we offer close mentorship, frequent feedback, and strong collaborations with larger groups across the Harvard Medical School research community.
+We are actively hiring and welcome scientists from all backgrounds and career stages to join our team! As a new and growing lab, we offer close mentorship and frequent feedback. At the same time, our strong collaborations with larger groups across the Harvard Medical School research community provide exposure to diverse research expertise and networks.
 
 {% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
 
