@@ -7,29 +7,14 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We’ve just opened the doors to our new lab and are excited to build a highly collaborative research team. We believe that diversity drives better research, and we aim to foster an environment where all members are treated equitably, respected, and valued for their differences.
+
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %} {% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
+
+{% include section.html dark=true %}
+
+We are actively hiring at all levels in the Strober lab.
+
+{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
 
 {% include section.html %}
-
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
