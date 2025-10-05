@@ -51,7 +51,7 @@ We are actively hiring and welcome scientists from all backgrounds and career st
 {%
   include button.html
   link="team"
-  text="Meet the team"
+  text="Join the team"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -61,7 +61,7 @@ We are actively hiring and welcome scientists from all backgrounds and career st
 {%
   include feature.html
   image="images/labspace2.jpg"
-  link="team"
+  link="join"
   title="Our Team"
   flip=true
   text=text
