@@ -4,7 +4,7 @@ title: Join the Team
 
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
 
-**Our main goal is to provide rigorous training in computational science**, with an emphasis on the development and application of statistical and machine learning methods in human genetics and genomics. Training is supported through group meetings, individualized mentoring, and a collaborative lab environment.
+**Our main goal is to provide rigorous training in computational science**, with an emphasis on the development and/or application of statistical and machine learning methods in human genetics and genomics. Training is supported through group meetings, individualized mentoring, and a collaborative lab environment.
 
 
 ### Postdoctoral Researchers
