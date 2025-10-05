@@ -9,6 +9,8 @@ nav:
 
 **Our main goal is to provide rigorous training in computational science**, with an emphasis on the development and/or application of statistical and machine learning methods in human genetics and genomics. Training is supported through group meetings, individualized mentoring, and a collaborative lab environment.
 
+As a new and growing lab, we can offer close mentorship and frequent feedback. At the same time, our strong collaborations with larger groups across the Harvard Medical School research community provide exposure to diverse research expertise and networks.
+
 
 ### Postdoctoral Researchers
 
