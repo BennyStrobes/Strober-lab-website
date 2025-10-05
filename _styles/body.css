@@ -9,6 +9,7 @@ body {
   font-family: var(--body);
   text-align: center;
   line-height: var(--compact);
+  font-size: 26px;
 }
 
 /*# sourceMappingURL=body.css.map */
