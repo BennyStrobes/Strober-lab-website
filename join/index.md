@@ -11,7 +11,7 @@ title: Join the Team
 
 There are two options:
 
-1. [Reach out to me](mailto:ben.strober@childrens.harvard.edu) with a description of your research, a CV, a sample publication.
+1. [Email me](mailto:ben.strober@childrens.harvard.edu) with a description of your research, a CV, a sample publication.
 
 2. If you are a US citizen or resident, you may apply to this CHIP program: [Postdoctoral Training in Informatics, Genomics, Machine Learning, Artificial Intelligence, Biomedical Data Science](https://www.chip.org/training/postdoctoral-training-ai-and-genomics). It is best to contact me beforehand to discuss.
 
@@ -27,6 +27,6 @@ https://gsas.harvard.edu/admissions/apply
 
 ### Masters and Undergraduates
 
-[email me](mailto:ben.strober@childrens.harvard.edu) with a description of your research interests and a CV.
+[Email me](mailto:ben.strober@childrens.harvard.edu) with a description of your research interests and a CV.
 
 
