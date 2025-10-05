@@ -30,6 +30,4 @@ Prospective students: consider these programs:
 
 [Email me](mailto:ben.strober@childrens.harvard.edu) with a description of your research interests and a CV.
 
-### Summer Internships
-
-I encourage you to apply to the [CHIP AI/ML internship program](https://www.chip.org/internship/chip-ai-internship). Those interested in working with me are encouraged to indicate this in their cover letter.
+If you are interested in a summer intership, I encourage you to apply to the [CHIP AI/ML internship program](https://www.chip.org/internship/chip-ai-internship). Those interested in working with me are encouraged to indicate this in their cover letter.
