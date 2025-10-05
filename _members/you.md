@@ -1,7 +1,6 @@
 ---
 name: You?
 image: images/photo.jpg
-description: Unknown
 role: unknown
 ---
 
