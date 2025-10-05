@@ -1,6 +1,6 @@
 ---
 name: Eric Li
-image: images/photo.jpg
+image: images/members_eric_li.jpeg
 role: Master's student
 ---
 
