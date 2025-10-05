@@ -6,7 +6,7 @@
 The Strober lab (PI: Ben) is a computational group focused on developing statistical and machine learning methods applied to human genetic and genomic data. Our goals are to elucidate disease biology and advance genomically-informed precision medicine. We are particularly interested in modeling the regulatory cascade from DNA through molecular phenotypes, such as transcript and protein levels, to  diseases. We also aim to integrate multimodal omics with the rich clinical data to refine diagnoses and guide precision-medicine interventions.
 
 
-Our lab is part of the [Computational Health Informatics Program](https://www.chip.org/) at Boston Children's Hospital, a teaching affiliate of Harvard Medical School.
+Our lab is part of the [Computational Health Informatics Program](https://www.chip.org/) at [Boston Children's Hospital](https://www.childrenshospital.org/), a teaching affiliate of [Harvard Medical School](https://hms.harvard.edu/).
 
 
 <div style="text-align: center; margin-top: 40px;">
