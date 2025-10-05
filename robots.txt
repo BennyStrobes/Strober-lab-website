@@ -1,1 +1,1 @@
-Sitemap: http://stroberlab.com/sitemap.xml
+Sitemap: https://stroberlab.com/sitemap.xml
