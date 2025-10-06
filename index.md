@@ -38,7 +38,7 @@ We develop and apply statistical and machine learning methods that integrate mas
   include feature.html
   image="images/papers_tgfm6.jpg"
   link="publications"
-  title="Our Publications"
+  title="Recent publications"
   text=text
 %}
 
@@ -62,7 +62,7 @@ We are actively hiring and welcome scientists from all backgrounds and career st
   include feature.html
   image="images/labspace2.jpg"
   link="join"
-  title="Our Team"
+  title="We're hiring!"
   flip=true
   text=text
 %}
