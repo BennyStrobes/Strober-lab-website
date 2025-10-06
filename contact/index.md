@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-The Strober Lab is located within the [CHIP](https://www.chip.org/) co-laboratory space on the 5th floor of the Landmark Center (401 Park Drive, Boston, MA 02215), just a few blocks from the Longwood Medical Area, which is home to Harvard Medical School and Boston Children's Hospital.
+The Strober Lab is located within the [CHIP](https://www.chip.org/) co-laboratory space on the 5th floor of the Landmark Center (401 Park Drive, Boston, MA 02215), just a few blocks from the Longwood Medical Area, which is home to Harvard Medical School, Harvard T.H. Chan School of Public Health, and several Harvard-Affiliated Hospitals (Boston Children's Hospital, Dana-Farber Cancer Institute, Brigham and Women's Hospital, and Beth Israel Deaconess Medical Center).
 
 {%
   include button.html
