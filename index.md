@@ -26,7 +26,7 @@ We develop and apply statistical and machine learning methods that integrate mas
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
@@ -37,8 +37,8 @@ We develop and apply statistical and machine learning methods that integrate mas
 {%
   include feature.html
   image="images/papers_tgfm6.jpg"
-  link="research"
-  title="Our Research"
+  link="publications"
+  title="Our Publications"
   text=text
 %}
 
