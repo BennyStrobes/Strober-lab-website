@@ -22,7 +22,7 @@ Our lab is part of the [Computational Health Informatics Program](https://www.ch
 
 {% capture text %}
 
-"We are what we publish". While that is certainly a bit extreme, exploring our recent papers is a great way to get a sense of the work we do.
+"_We are what we publish_". While that is certainly a bit extreme, exploring our recent papers is a great way to get a sense of the work we do.
 
 {%
   include button.html
