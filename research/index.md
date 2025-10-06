@@ -7,8 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research overview
 
-**Modeling the context-specificity of genetic regulation of gene expresssion**
 {% include section.html %}
+
+**Modeling the context-specificity of genetic regulation of gene expresssion**
 
 {% capture col1 %}
 
@@ -24,8 +25,12 @@ Genetic variants significantly associated with gene expression are known as expr
 
 {% include cols.html col1=col1 col2=col2 %}
 
+{% include section.html %}
 **Elucidating disease biology through integration of genetic association studies and functional genomic data**
 
+
+{% include section.html %}
 **Advancing genomically-informed precision medicine for rare diseases**
 
+{% include section.html %}
 **Inferring variant-to-gene links and disease genes using deep learning sequence-to-expression models**
