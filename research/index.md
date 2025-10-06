@@ -30,16 +30,18 @@ Genetic variants significantly associated with gene expression are known as expr
 
 {% capture col1 %}
 
-{% include figure.html image="images/papers_tgfm6.jpg" caption="TGFM identifies OVOL1 in lymphocytes as a causal-gene-tissue pair underlying an Eczema disease locus" %}
+{% include figure.html image="images/papers_tgfm6.jpg" caption="TGFM implicates OVOL1 in lymphocytes as the effector gene and tissue underlying an eczema locus." %}
 
 {% endcapture %}
 
 
 {% capture col2 %}
 
-Genome-wide association studies (GWAS) have identified hundreds of thousands of genetic variants associated with human disease. Most of these variants lie in non-coding regions of the genome and are generally thought to influence disease risk by regulating the expression of nearby genes. Yet despite extensive efforts, most disease-associated genetic variants remain functionally uncharacterized, with the causal gene unknown in most cases. This has emerged as a major limitation in human genetics, slowing progress toward biological insight and gene-targeted strategy. **A major goal of the lab is develop integrative statistical approaches to connect variant-to-gene regulation with diseae** and infer biological mechanisms underlying disease-associated genetic variants. This work will relies on integration of GWAS data with diverse variant-to-gene linking strategies from functional genomic data (QTLs, CRISPR-based perturbations, enhancer gene links from single-cell multiome assays, chromatin contact maps, etc). 
+Genome-wide association studies (GWAS) have identified hundreds of thousands of genetic variants associated with human disease. Most of these variants lie in non-coding regions of the genome and are generally thought to influence disease risk by regulating the expression of nearby genes. Yet despite extensive efforts, most disease-associated genetic variants remain functionally uncharacterized, with the causal gene unknown in most cases. This has emerged as a major limitation in human genetics, slowing progress toward biological insight and gene-targeted strategy. 
 
-We recently developed Tissue-Gene Fine-Mapping (TGFM), a statistical method to uncover the functional mechanisms underlying disease-associated variants by integrating multi-tissue eQTL data with GWAS data ([Strober et al. Nature Genetics 2025](https://pubmed.ncbi.nlm.nih.gov/37961337/)).TGFM exploits variation in eQTL effects across tissues to pinpoint both the causal gene and its tissue of action at each GWAS locus.
+**A major goal of the lab is develop integrative statistical approaches to connect variant-to-gene regulation with diseae** and infer biological mechanisms underlying disease-associated genetic variants. This work will integrate GWAS data with diverse variant-to-gene linking strategies derived from functional genomic datasets, including QTL analyses, CRISPR-based perturbations, enhancer–gene connections from single-cell multiome assays, and chromatin contact maps.
+
+As a recent example, we developed Tissue-Gene Fine-Mapping (TGFM), a statistical method to uncover the functional mechanisms underlying disease-associated variants by integrating multi-tissue eQTL data with GWAS data ([Strober et al. Nature Genetics 2025]([https://pubmed.ncbi.nlm.nih.gov/37961337/](https://pubmed.ncbi.nlm.nih.gov/39747598/))). TGFM exploits variation in eQTL effects across tissues to pinpoint both the causal gene and its tissue of action at each GWAS locus. Causal gene-tissue pairs identified by TGFM reflected both known biology (for example, TPO-thyroid for hypothyroidism) and biologically plausible findings (for example, SLC20A2-artery aorta for diastolic blood pressure)
 
 {% endcapture %}
 
