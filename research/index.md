@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Publications
-
+At the end of the day in academia we are what we publish so check out our recent work below or on [google scholar](https://scholar.google.com/citations?user=nrRHpcwAAAAJ&hl=en).
 {% include section.html %}
 
 ## Highlighted
