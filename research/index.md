@@ -7,25 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research overview
 
-1. **Modeling the context-specificity of genetic regulation of gene expresssion**
+**Modeling the context-specificity of genetic regulation of gene expresssion**
 {% include section.html %}
 
 {% capture col1 %}
 
-Dr. Strober 
+Genetic variants significantly associated with gene expression are known as expression quantitative trait loci (eQTLs). eQTLs are a widely used approach to study the genetic regulation of gene expression and can also help identify the regulatory mechanisms underlying disease-associated genetic variants. Dr. Strober has led several projects characterizing how eQTLs vary across tissues and cellular contexts. This includes work demonstrating that eQTLs are highly dynamic statistical associations that change continuously during process such as cellular differentiation ([Strober*, Elorbany*, Rhodes* et al. Science 2019](https://pubmed.ncbi.nlm.nih.gov/31249060/). He also developed a probabilistic model, SURGE, to identify highly context-specific eQTLs by leveraging single-cell eQTL datasets in an unsupervised manner ([Strober et al. Genome Biology 2024](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03152-z). Together, these studies demonstrated that genetic regulation of gene expression is highly dynamic and depends on cellular context. 
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{% include figure.html image="images/chip_colab_space.jpeg" caption="CHIP Co-laboratory space" %}
+{% include figure.html image="images/papers_surge2.jpeg" %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
-2. **Elucidating disease biology through integration of genetic association studies and functional genomic data**
+**Elucidating disease biology through integration of genetic association studies and functional genomic data**
 
-3. **Genomically-informed precision medicine for rare disease patients**
+**Advancing genomically-informed precision medicine for rare diseases**
 
-4. **Inferring variant-to-gene links and disease genes using deep-learing sequence-to-expression models**
+**Inferring variant-to-gene links and disease genes using deep learning sequence-to-expression models**
