@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We’ve just opened the doors to our new lab and are excited to build a highly collaborative research team. We believe that diversity drives better research, and we aim to foster an environment where all members are treated equitably, respected, and valued for their differences.
+We’ve just opened the doors to our new lab and are excited to build a highly collaborative research team. We believe that diversity drives better science, and we aim to build a group that brings together a wide range of expertise and backgrounds.
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %} {% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
 
