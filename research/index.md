@@ -11,6 +11,11 @@ nav:
 
 ### 1. Modeling the context-specificity of genetic regulation of gene expresssion
 
+Genetic variants significantly associated with gene expression are known as expression quantitative trait loci (eQTLs). eQTLs are a widely used approach to study the genetic regulation of gene expression and can also be used to infer the biological mechanisms and causal genes underlying disease-associated genetic variants. Dr. Strober has led several projects characterizing how eQTLs vary across tissues and cellular contexts. This includes work demonstrating that eQTLs are highly dynamic statistical associations that change continuously during process such as cellular differentiation ([Strober\*, Elorbany\*, Rhodes\* et al. Science 2019](https://pubmed.ncbi.nlm.nih.gov/31249060/)). He also developed a probabilistic model, SURGE, to identify highly context-specific eQTLs from single-cell RNA sequencing using latent-factor models ([Strober et al. Genome Biology 2024](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03152-z)). Together, these studies demonstrated that genetic regulation of gene expression is highly dynamic and depends on cellular context. 
+
+{% include figure.html image="images/papers_surge2.jpeg" caption="SURGE model schematic" %}
+
+
 {% capture col1 %}
 
 Genetic variants significantly associated with gene expression are known as expression quantitative trait loci (eQTLs). eQTLs are a widely used approach to study the genetic regulation of gene expression and can also be used to infer the biological mechanisms and causal genes underlying disease-associated genetic variants. Dr. Strober has led several projects characterizing how eQTLs vary across tissues and cellular contexts. This includes work demonstrating that eQTLs are highly dynamic statistical associations that change continuously during process such as cellular differentiation ([Strober\*, Elorbany\*, Rhodes\* et al. Science 2019](https://pubmed.ncbi.nlm.nih.gov/31249060/)). He also developed a probabilistic model, SURGE, to identify highly context-specific eQTLs from single-cell RNA sequencing using latent-factor models ([Strober et al. Genome Biology 2024](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03152-z)). Together, these studies demonstrated that genetic regulation of gene expression is highly dynamic and depends on cellular context. 
@@ -27,31 +32,6 @@ Genetic variants significantly associated with gene expression are known as expr
 
 {% include section.html %}
 ### 2. Elucidating disease biology from genetic association studies
-
-
-<div style="display:flex; flex-wrap:wrap; gap:1.5rem; align-items:flex-start;">
-  <div style="flex:1 1 48%; min-width:300px;">
-    {% include figure.html image="images/papers_tgfm6.jpg" caption="TGFM implicates OVOL1 in lymphocytes as the effector gene and tissue underlying an eczema locus." %}
-  </div>
-
-  <div style="flex:1 1 48%; min-width:300px;">
-Genome-wide association studies (GWAS) have identified hundreds of thousands of genetic variants associated with human disease. Most of these variants lie in non-coding regions of the genome and are generally thought to influence disease risk by regulating the expression of nearby genes. Yet despite extensive efforts, most disease-associated genetic variants remain functionally uncharacterized, with the causal gene unknown in most cases. This has emerged as a major limitation in human genetics, slowing progress toward biological insight and gene-targeted strategy. 
-
-**A major goal of the lab is develop integrative statistical approaches to connect variant-to-gene regulation with diseae** and infer biological mechanisms underlying disease-associated genetic variants. This work will integrate GWAS data with diverse variant-to-gene linking strategies derived from functional genomic datasets, including QTL analyses, CRISPR-based perturbations, enhancer–gene connections from single-cell multiome assays, and chromatin contact maps.
-
-As a recent example, we developed Tissue-Gene Fine-Mapping (TGFM), a statistical method to uncover the functional mechanisms underlying disease-associated variants by integrating multi-tissue eQTL data with GWAS data ([Strober et al. Nature Genetics 2025](https://pubmed.ncbi.nlm.nih.gov/39747598/)). TGFM exploits variation in eQTL effects across tissues to pinpoint both the causal gene and its tissue of action at each GWAS locus. Causal gene-tissue pairs identified by TGFM reflected both known biology (for example, TPO-thyroid for hypothyroidism) and biologically plausible findings (for example, SLC20A2-artery aorta for diastolic blood pressure).
-
-
-    
-  </div>
-</div>
-
-
-
-
-
-
-
 
 {% capture col1 %}
 
