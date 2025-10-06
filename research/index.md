@@ -55,7 +55,7 @@ As a recent example, we developed Tissue-Gene Fine-Mapping (TGFM), a statistical
 
 {% capture col1 %}
 
-The human genome contains tens of thousands of rare (minor allele frequency <1%) variants, some of which contribute to common and/or rare disease risk. However, determining which of these variants have functional impact or phenotypic consequences remains a major challenge, hindering the diagnosis of rare disease cases. Dr. Strober has developed statistical models that leverage individual-level gene expression data to help prioritize functional rare variants ([Ferraro\*, Strober\* et al. Science 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7646251/)). This work is motivated by the intuition that if a rare variant has a functional effect, it is likely to perturb the expression levels of nearby genes. Accordingly, twe developed approaches to identify genes with aberrant transcriptional profiles and used this information to inform rare variant interpretation.
+The human genome contains tens of thousands of rare (minor allele frequency <1%) variants, some of which contribute to common and/or rare disease risk. However, determining which of these variants have functional impact or phenotypic consequences remains a major challenge, hindering the diagnosis of rare disease cases. Dr. Strober has developed statistical models that leverage individual-level gene expression data to help prioritize functional rare variants ([Ferraro\*, Strober\* et al. Science 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7646251/)). This work is motivated by the intuition that if a rare variant has a functional effect, it is likely to perturb the expression levels of nearby genes. Accordingly, he developed approaches to identify genes with aberrant transcriptional profiles and used this information to inform rare variant interpretation.
 
 Looking ahead, we are enthusiastic about continuing this line of work and developing new methods to advance precision medicine for rare disease cases at Boston Children's Hospital. Specifically, we aim to build **well-calibrated models** that predict disease status or treatment response by integrating clinical, genetic, and multi-omic data. By _well-calibrated_, we mean that when our model predicts a 70% probability of treatment response, approximately 70% of future patients with that prediction will, in fact, respond. We believe that well-calibrated predictions are essential for adoption of genomically-informed precision medicine into practice.
 
@@ -63,7 +63,7 @@ Looking ahead, we are enthusiastic about continuing this line of work and develo
 
 {% capture col2 %}
 
-{% include figure.html image="images/papers_v8_rare.png" caption="Enrichment of rare variants with aberrant transcriptional profiles" %}
+{% include figure.html image="images/papers_v8_rare_var.png" caption="Enrichment of rare variants with aberrant transcriptional profiles" %}
 
 {% endcapture %}
 
