@@ -26,7 +26,7 @@ Genetic variants significantly associated with gene expression are known as expr
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html %}
-### 2. Elucidating disease biology through integration of genetic association studies and functional genomic data
+### 2. Elucidating disease biology from genetic association studies
 
 {% capture col1 %}
 
@@ -71,4 +71,29 @@ Looking ahead, we are enthusiastic about continuing this line of work and develo
 
 
 {% include section.html %}
+
 ### 4. Inferring variant-to-gene links and disease genes using deep learning sequence-to-expression models
+
+{% capture col1 %}
+
+{% include figure.html image="images/papers_borzoi_figure.jpg" caption="Figure 1a from [Borzoi paper](https://www.nature.com/articles/s41588-024-02053-6) visualizing S2E model architecture" %}
+
+{% endcapture %}
+
+
+{% capture col2 %}
+
+Many disease loci are thought to have highly context-specific functional mechanisms. For example, [recent work](https://www.biorxiv.org/content/10.1101/2025.04.30.651602v1.abstract) found numerous disease loci that overlapped with eQTLs only when, for example, expression was measured in endothelial cells exposed to caffeine. This suggests that addressing the missing regulation problem would require population-scale QTL data across countless contexts. We are therefore very interested in exploring scalable alternatives that use sequence-to-expression (S2E) deep learning models in place of QTL data to (1) identify variant-to-gene links across diverse contexts and (2) connect these links to disease to uncover novel disease genes.
+
+S2E models (e.g., [AlphaGenome](https://www.biorxiv.org/content/10.1101/2025.06.25.661532v2), [Borzoi](https://www.nature.com/articles/s41588-024-02053-6)) leverage deep learning to predict gene expression across tissues, cell types, and contexts directly from DNA sequence. They can also estimate a variant’s effect on a gene, referred to as the S2E-predicted variant-to-gene effect, by computing the predicted change in expression after substituting the reference with the alternative allele. This provides a complementary alternative to QTL-based estimates. Notably, S2E-predicted effects can be derived without population-scale data, making them particularly valuable for hard-to-assay contexts.
+
+We are currently developing new approaches to integrate S2E-predicted variant to gene efects with GWAS data to gain insight into the functional mechanisms that underlie disease-associated variants.
+
+{% endcapture %}
+
+
+{% include cols.html col1=col1 col2=col2 %}
+
+
+
+
