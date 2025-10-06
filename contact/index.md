@@ -39,7 +39,7 @@ The Strober Lab (and [CHIP](https://www.chip.org/)) are located on the 5th floor
 {%
   include figure.html
   image="images/chip_colab_space.jpeg"
-  caption="Co-laboratory space"
+  caption="CHIP Co-laboratory space"
 %}
 
 {% endcapture %}
