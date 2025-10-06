@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-**1. Modeling the context-specificity of genetic regulation of gene expresssion**
+### 1. Modeling the context-specificity of genetic regulation of gene expresssion
 
 {% capture col1 %}
 
@@ -26,7 +26,7 @@ Genetic variants significantly associated with gene expression are known as expr
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html %}
-**2. Elucidating disease biology through integration of genetic association studies and functional genomic data**
+### 2. Elucidating disease biology through integration of genetic association studies and functional genomic data
 
 {% capture col1 %}
 
@@ -51,7 +51,7 @@ As a recent example, we developed Tissue-Gene Fine-Mapping (TGFM), a statistical
 
 
 {% include section.html %}
-**3. Advancing genomically-informed precision medicine for rare diseases**
+### 3. Advancing genomically-informed precision medicine for rare diseases
 
 {% capture col1 %}
 
@@ -71,4 +71,4 @@ Looking ahead, we are enthusiastic about continuing this line of work and develo
 
 
 {% include section.html %}
-**4. Inferring variant-to-gene links and disease genes using deep learning sequence-to-expression models**
+### 4. Inferring variant-to-gene links and disease genes using deep learning sequence-to-expression models
