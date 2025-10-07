@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-dna" %}Research overview
 
+We outline four research directions that are currently of great interest to the group, though we are always open to exploring new ideas and collaborations.
+
 {% include section.html %}
 
 ### 1. Elucidating disease biology from genetic association studies
