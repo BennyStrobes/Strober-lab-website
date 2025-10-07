@@ -25,7 +25,7 @@ Genetic variants significantly associated with gene expression are known as expr
 ### 2. Elucidating disease biology from genetic association studies
 
 <div style="overflow:auto; text-align:left;">
-  <div style="float:right; width:45%; margin-left:20px; margin-bottom:10px;">
+  <div style="float:left; width:45%; margin-left:20px; margin-bottom:10px;">
     {% include figure.html image="images/papers_tgfm6.jpg" caption="TGFM implicates OVOL1 in lymphocytes as the effector gene and tissue underlying an eczema locus." %}
   </div>
 
@@ -57,7 +57,7 @@ Looking ahead, we are enthusiastic about continuing this line of work and develo
 ### 4. Inferring variant-to-gene links using deep-learning sequence-to-expression models
 
 <div style="overflow:auto; text-align:left;">
-  <div style="float:right; width:45%; margin-left:20px; margin-bottom:10px;">
+  <div style="float:left; width:45%; margin-left:20px; margin-bottom:10px;">
     {% include figure.html image="images/papers_borzoi_figure.jpg" caption="S2E model architecture (from the Borzoi paper)" %}
   </div>
 
