@@ -9,23 +9,10 @@ nav:
 
 {% include section.html %}
 
-### 1. Modeling the context-specificity of genetic regulation of gene expression
+### 1. Elucidating disease biology from genetic association studies
 
 <div style="overflow:auto; text-align:left;">
   <div style="float:right; width:45%; margin-left:20px; margin-bottom:10px;">
-    {% include figure.html image="images/papers_surge2.jpeg" caption="SURGE model schematic" %}
-  </div>
-
-Genetic variants significantly associated with gene expression are known as expression quantitative trait loci (eQTLs). eQTLs are a widely used approach to study the genetic regulation of gene expression and can also be used to infer the biological mechanisms and causal genes underlying disease-associated genetic variants. Dr. Strober has led several projects characterizing how eQTLs vary across tissues and cellular contexts. This includes work demonstrating that eQTLs are highly dynamic statistical associations that change continuously during processes such as cellular differentiation (<a href="https://pubmed.ncbi.nlm.nih.gov/31249060/">Strober*, Elorbany*, Rhodes* et&nbsp;al., Science&nbsp;2019</a>). He also developed a probabilistic model, SURGE, to identify highly context-specific eQTLs from single-cell RNA sequencing using latent-factor models (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03152-z">Strober et&nbsp;al., Genome Biology&nbsp;2024</a>). Together, these studies demonstrated that genetic regulation of gene expression is highly dynamic and depends on cellular context.
-</div>
-
-<div style="clear:both;"></div>
-{% include section.html %}
-
-### 2. Elucidating disease biology from genetic association studies
-
-<div style="overflow:auto; text-align:left;">
-  <div style="float:left; width:45%; margin-right:20px; margin-bottom:10px;">
     {% include figure.html image="images/papers_tgfm6.jpg" caption="TGFM implicates OVOL1 in lymphocytes as the effector gene and tissue underlying an eczema locus." %}
   </div>
 
@@ -37,7 +24,23 @@ As a recent example, we developed Tissue-Gene Fine-Mapping (TGFM), a statistical
 </div>
 
 <div style="clear:both;"></div>
+
+
 {% include section.html %}
+
+### 2. Modeling genetic effects on gene expression across tissues, cell-types, and contexts
+
+<div style="overflow:auto; text-align:left;">
+  <div style="float:left; width:45%; margin-right:20px; margin-bottom:10px;">
+    {% include figure.html image="images/papers_surge2.jpeg" caption="SURGE model schematic" %}
+  </div>
+
+Genetic variants significantly associated with gene expression are known as expression quantitative trait loci (eQTLs). eQTLs are a widely used approach to study the genetic regulation of gene expression and can also be used to infer the biological mechanisms and causal genes underlying disease-associated genetic variants. Dr. Strober has led several projects characterizing how eQTLs vary across tissues and cellular contexts. This includes work with the <a href="https://www.nature.com/articles/nature24277">GTEx consortium</a>, as well as other work demonstrating that eQTLs are highly dynamic statistical associations that change continuously during processes such as cellular differentiation (<a href="https://pubmed.ncbi.nlm.nih.gov/31249060/">Strober*, Elorbany*, Rhodes* et&nbsp;al., Science&nbsp;2019</a>). He also developed a probabilistic model, SURGE, to identify highly context-specific eQTLs from single-cell RNA sequencing using latent-factor models (<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03152-z">Strober et&nbsp;al., Genome Biology&nbsp;2024</a>). Together, these studies demonstrated that genetic regulation of gene expression is highly dynamic and depends on cellular context.
+</div>
+
+<div style="clear:both;"></div>
+{% include section.html %}
+
 
 ### 3. Inferring variant-to-gene links using deep-learning sequence-to-expression models
 
