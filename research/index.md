@@ -54,7 +54,7 @@ Looking ahead, we are enthusiastic about continuing this line of work and develo
 <div style="clear:both;"></div>
 {% include section.html %}
 
-### 4. Inferring variant-to-gene links and disease genes using deep-learning sequence-to-expression models
+### 4. Inferring variant-to-gene links using deep-learning sequence-to-expression models
 
 <div style="overflow:auto; text-align:left;">
   <div style="float:right; width:45%; margin-left:20px; margin-bottom:10px;">
