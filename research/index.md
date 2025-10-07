@@ -5,7 +5,7 @@ nav:
   tooltip: Research overview
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research overview
+# {% include icon.html icon="fa-solid fa-dna" %}Research overview
 
 {% include section.html %}
 
