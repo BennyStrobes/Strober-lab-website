@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
+# {% include icon.html icon="fa-solid fa-book-open" %}Publications
 
 See what we've been up to! Check out our recent work below or on [google scholar](https://scholar.google.com/citations?user=nrRHpcwAAAAJ&hl=en).
 {% include section.html %}
