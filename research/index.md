@@ -46,7 +46,7 @@ Genetic variants significantly associated with gene expression are known as expr
 
 <div style="overflow:auto; text-align:left;">
   <div style="float:right; width:45%; margin-left:20px; margin-bottom:10px;">
-    {% include figure.html image="images/papers_watershed_moedl_overview.png" caption="Enrichment of rare variants with aberrant transcriptional profiles" %}
+    {% include figure.html image="images/papers_watershed_model_overview.png" caption="Enrichment of rare variants with aberrant transcriptional profiles" %}
   </div>
 
 The human genome contains tens of thousands of rare (minor allele frequency &lt;1%) variants, some of which contribute to common and/or rare disease risk. However, determining which of these variants have functional impact or phenotypic consequences remains a major challenge, hindering the diagnosis of rare disease cases. Dr. Strober has developed statistical approaches that leverage individual-level gene expression data to help prioritize functional rare variants (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7646251/">Ferraro*, Strober* et&nbsp;al., Science&nbsp;2020</a>). This work is motivated by the intuition that if a rare variant has a functional effect, it is likely to perturb the expression levels of nearby genes. Specifically, he developed Watershed, a probabilistic model that integrates genomic annotations (e.g., CADD scores, VEP consequences) with each individual’s transcriptional profile to estimate the posterior probability that a given rare variant is functional. <br><br>
