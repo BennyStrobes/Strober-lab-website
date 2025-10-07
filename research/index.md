@@ -43,10 +43,26 @@ Genetic variants significantly associated with gene expression are known as expr
 {% include section.html %}
 
 
-### 3. Inferring variant-to-gene links using deep-learning sequence-to-expression models
+### 3. Advancing genomically-informed precision medicine for rare diseases
 
 <div style="overflow:auto; text-align:left;">
   <div style="float:right; width:45%; margin-left:20px; margin-bottom:10px;">
+    {% include figure.html image="images/papers_watershed_moedl_overview.png" caption="Enrichment of rare variants with aberrant transcriptional profiles" %}
+  </div>
+
+The human genome contains tens of thousands of rare (minor allele frequency &lt;1%) variants, some of which contribute to common and/or rare disease risk. However, determining which of these variants have functional impact or phenotypic consequences remains a major challenge, hindering the diagnosis of rare disease cases. Dr. Strober has developed statistical approaches that leverage individual-level gene expression data to help prioritize functional rare variants (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7646251/">Ferraro*, Strober* et&nbsp;al., Science&nbsp;2020</a>). This work is motivated by the intuition that if a rare variant has a functional effect, it is likely to perturb the expression levels of nearby genes. Specifically, he developed Watershed, a probabilistic model that integrates genomic annotations (e.g., CADD scores, VEP consequences) with each individual’s transcriptional profile to estimate the posterior probability that a given rare variant is functional. <br><br>
+
+Looking ahead, we are enthusiastic about continuing this line of work and developing new methods to advance precision medicine for rare disease cases at Boston Children's Hospital. Specifically, we aim to build <strong>well-calibrated models</strong> that predict disease status or treatment response by integrating clinical, genetic, and multi-omic data. By <em>well-calibrated</em>, we mean that when our model predicts a 70% probability of treatment response, approximately 70% of future patients with that prediction will, in fact, respond. We believe that well-calibrated predictions are essential for adoption of genomically-informed precision medicine into practice.
+</div>
+
+<div style="clear:both;"></div>
+{% include section.html %}
+
+
+### 4. Inferring variant-to-gene links using deep-learning sequence-to-expression models
+
+<div style="overflow:auto; text-align:left;">
+  <div style="float:left; width:45%; margin-right:20px; margin-bottom:10px;">
     {% include figure.html image="images/papers_borzoi_figure.jpg" caption="S2E model architecture (from the Borzoi paper)" %}
   </div>
 
@@ -58,22 +74,7 @@ We are currently developing new approaches to integrate S2E-predicted variant-to
 </div>
 
 <div style="clear:both;"></div>
-{% include section.html %}
 
-
-### 4. Advancing genomically-informed precision medicine for rare diseases
-
-<div style="overflow:auto; text-align:left;">
-  <div style="float:left; width:45%; margin-right:20px; margin-bottom:10px;">
-    {% include figure.html image="images/papers_v8_rare_var.png" caption="Enrichment of rare variants with aberrant transcriptional profiles" %}
-  </div>
-
-The human genome contains tens of thousands of rare (minor allele frequency &lt;1%) variants, some of which contribute to common and/or rare disease risk. However, determining which of these variants have functional impact or phenotypic consequences remains a major challenge, hindering the diagnosis of rare disease cases. Dr. Strober has developed statistical models that leverage individual-level gene expression data to help prioritize functional rare variants (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7646251/">Ferraro*, Strober* et&nbsp;al., Science&nbsp;2020</a>). This work is motivated by the intuition that if a rare variant has a functional effect, it is likely to perturb the expression levels of nearby genes. Accordingly, he developed approaches to identify genes with aberrant transcriptional profiles and used this information to inform rare variant interpretation.<br><br>
-
-Looking ahead, we are enthusiastic about continuing this line of work and developing new methods to advance precision medicine for rare disease cases at Boston Children's Hospital. Specifically, we aim to build <strong>well-calibrated models</strong> that predict disease status or treatment response by integrating clinical, genetic, and multi-omic data. By <em>well-calibrated</em>, we mean that when our model predicts a 70% probability of treatment response, approximately 70% of future patients with that prediction will, in fact, respond. We believe that well-calibrated predictions are essential for adoption of genomically-informed precision medicine into practice.
-</div>
-
-<div style="clear:both;"></div>
 {% include section.html %}
 
 
