@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-dna" %}Research overview
 
-We outline four research directions that are currently of great interest to the group, though we are always open to exploring new ideas and collaborations.
+Below are four research directions that are currently of great interest to the group. That said, we are always open to exploring new ideas and collaborations.
 
 {% include section.html %}
 
