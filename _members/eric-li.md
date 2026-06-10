@@ -2,6 +2,7 @@
 name: Eric Li
 image: images/members_eric_li.jpeg
 role: masters
+group: alum
 links:
   email: eli@hsph.harvard.edu
 ---
