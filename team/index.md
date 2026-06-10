@@ -18,3 +18,7 @@ We are actively hiring and welcome scientists from all backgrounds and career st
 {% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
 
 {% include section.html %}
+
+## Alumni
+
+{% include list.html data="members" component="portrait" filter="group == 'alum'" %}
