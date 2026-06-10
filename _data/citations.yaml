@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41588-026-02607-w
+  title: Pleiotropic shared heritability quantifies the shared genetic variance of
+    common diseases
+  authors:
+  - Yujie Zhao
+  - Benjamin Strober
+  - Kangcheng Hou
+  - Gaspard Kerner
+  - John Danesh
+  - Steven Gazal
+  - Wei Cheng
+  - Michael Inouye
+  - Alkes L. Price
+  - Xilin Jiang
+  publisher: Nature Genetics
+  date: '2026-06-09'
+  link: https://doi.org/hb69tc
+  orcid: 0000-0003-2969-2808
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.04.24.26351667
   title: Functionally informed cis and trans proteome-wide association studies prioritize
     disease-critical genes
