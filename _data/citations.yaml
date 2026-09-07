@@ -1,5 +1,44 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.08.18.26359984
+  title: 'Sharing Aggregated Patient Counts in Place of Line-Level EHR Data: Analytic
+    Fidelity and the Limits of Count Suppression for Privacy'
+  authors:
+  - Yanshi Chen
+  - Andrew J. McMurry
+  - Daniel Gottlieb
+  - James R. Jones
+  - Benjamin J. Strober
+  - Kenneth D. Mandl
+  publisher: openRxiv
+  date: '2026-08-21'
+  link: https://doi.org/hcgk97
+  orcid: 0000-0003-2969-2808
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-026-02712-w
+  title: Correlations between causal effect sizes of proximal SNPs vary with functional
+    annotations and implicate stabilizing selection
+  authors:
+  - Martin Jinye Zhang
+  - Arun Durvasula
+  - Colby Chiang
+  - Evan M. Koch
+  - Benjamin J. Strober
+  - Huwenbo Shi
+  - Alison R. Barton
+  - Samuel S. Kim
+  - Omer Weissbrod
+  - Po-Ru Loh
+  - Steven Gazal
+  - Shamil Sunyaev
+  - Alkes L. Price
+  publisher: Nature Genetics
+  date: '2026-08-13'
+  link: https://doi.org/hcfwk3
+  orcid: 0000-0003-2969-2808
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41588-026-02607-w
   title: Pleiotropic shared heritability quantifies the shared genetic variance of
     common diseases
@@ -44,7 +83,7 @@
   - Benjamin Strober
   - Alkes L. Price
   publisher: Cell Genomics
-  date: '2026-01-01'
+  date: '2026-04-01'
   link: https://doi.org/hbncn5
   orcid: 0000-0003-2969-2808
   plugin: orcid.py
